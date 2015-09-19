@@ -1,0 +1,63 @@
+body {
+	padding: 0px 50px 50px 50px;
+	width: 90%;
+	margin: 0px 50px 0px 50px;
+	max-width: 1200px;
+	min-width: 700px;
+
+}
+
+header {
+	width: 100%;
+	background: #000000;
+	height: 40px;
+	position: static;
+
+}
+
+.google {
+	color: white;
+	margin: 10px 10px 10px 10px;
+	display: inline-block;
+}
+
+.apple {
+	color: white;
+	margin: 10px 10px 10px 20px;
+	display: inline-block;
+}
+
+.main {
+	margin-top: 50px;
+	margin-left: 10px;
+	margin: 50px 10px 50px 10px;
+	display: flex;
+
+}
+
+.container {
+	width: 50%;
+	padding: 10px;
+}
+	
+.container1 {
+	width: 50%;
+	padding: 10px;
+
+}
+
+.box {
+	height: 260px;
+	width: 100%;
+	background-color: gray;
+	margin-bottom: 10px;
+
+}
+
+footer {
+	bottom: 0px;
+	width: 100%;
+	height: 60px;
+	clear: both;
+	background-color: #000000;
+}
